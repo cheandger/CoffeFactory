@@ -11,7 +11,7 @@ public class MyCoffeeFactory {
             case MOKKO -> new Mokko("Mokko");
             // in this simple example, we don't need the default case because
             // when we specify coffeeType, the IDE doesn't allow
-            // we to specify any other type, except for what we specified in enum
+            // us to specify any other type, except for what we specified in enum
 
         };
 
